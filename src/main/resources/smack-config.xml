@@ -1,0 +1,5 @@
+<smack>
+    <parser>
+        <set-payload-in-as-body>true</set-payload-in-as-body>
+    </parser>
+</smack>
